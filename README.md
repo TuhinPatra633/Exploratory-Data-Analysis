@@ -1,10 +1,13 @@
 # EDA Project
 
-This repository contains an exploratory data analysis (EDA) project.
+This repository contains an exploratory data analysis (EDA) on Indian IPOs.
 
 ## Project Overview
-
-[Provide a brief overview of your project, the dataset used, and the main findings.]
+Here I have analysis the various aspect of Indian IPOs from 2010 to 2023.
+Some key findings are 
+1.2021 has highest number of IPO and it also surpassed the other years in account of total issue size. Which is quite surprising because of pandemic scenario in 2021. I think COVID-19 has pushed more and more companies for IPO.
+2.Out of 358 company 200 company make profit which is 55.87% profit. Which is higher percentage of profit than investing ways. So if you add some research in IPOs with this profit percentage(55.87%) that will also increase. So investing in IPOs has more chance of profit than loss.
+3.Total Subscription>=50 has a high chance of positive listing gains.
 
 ## Files
 
