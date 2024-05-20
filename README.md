@@ -20,11 +20,7 @@ In this project, I analyze various aspects of Indian IPOs from 2010 to 2023.
 
 ## Further Details:
 
-For a detailed analysis and visualizations, refer to the `Edafinal.Rmd` and `Edafinal.html` files in this repository.
-
-## Data Source:
-
-The analysis is based on data sourced from [mention the source here, if applicable]. 
+For a detailed analysis and visualizations, refer to the `Edafinal.Rmd` and `Edafinal.html` files in this repository. 
 
 ## License:
 
