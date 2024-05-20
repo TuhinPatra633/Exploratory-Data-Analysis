@@ -13,7 +13,7 @@ This repository contains an exploratory data analysis (EDA) project.
 
 ## Viewing the Analysis
 
-You can view the HTML version of the analysis directly by clicking [here](https://github.com/TuhinPatra633/Exploratory-Data-Analysis/blob/main/Edafinal.html).
+You can view the HTML version of the analysis directly by clicking [here](https://htmlpreview.github.io/?https://github.com/TuhinPatra633/Exploratory-Data-Analysis/blob/main/Edafinal.html).
 
 Alternatively, you can view the raw R Markdown file by clicking [here](https://github.com/TuhinPatra633/Exploratory-Data-Analysis/blob/main/Edafinal.Rmd).
 
