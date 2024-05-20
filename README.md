@@ -2,12 +2,34 @@
 
 This repository contains an exploratory data analysis (EDA) on Indian IPOs.
 
-## Project Overview
-Here I have analysis the various aspect of Indian IPOs from 2010 to 2023.
-Some key findings are 
-1.2021 has highest number of IPO and it also surpassed the other years in account of total issue size. Which is quite surprising because of pandemic scenario in 2021. I think COVID-19 has pushed more and more companies for IPO.
-2.Out of 358 company 200 company make profit which is 55.87% profit. Which is higher percentage of profit than investing ways. So if you add some research in IPOs with this profit percentage(55.87%) that will also increase. So investing in IPOs has more chance of profit than loss.
-3.Total Subscription>=50 has a high chance of positive listing gains.
+## Data Source:
+
+The analysis is based on data sourced from [www.moneycontrol.com].
+
+# Project Overview
+
+In this project, I analyze various aspects of Indian IPOs from 2010 to 2023.
+
+## Key Findings:
+
+1. **Record-breaking IPO Activity in 2021**: Despite the challenging pandemic scenario, 2021 witnessed the highest number of IPOs and surpassed other years in terms of total issue size. This surge suggests that COVID-19 may have incentivized more companies to go public.
+
+2. **Profitability of IPOs**: Out of 358 companies analyzed, 200 reported profits, translating to a profit percentage of 55.87%. This percentage exceeds many other investment avenues, indicating that investing in IPOs presents a higher chance of profit than loss. Further research in IPOs coupled with this profit percentage could enhance investment strategies.
+
+3. **Subscription and Listing Gains**: Companies with a total subscription of 50 or more demonstrate a high probability of positive listing gains, highlighting the importance of subscription metrics in predicting post-listing performance.
+
+## Further Details:
+
+For a detailed analysis and visualizations, refer to the `Edafinal.Rmd` and `Edafinal.html` files in this repository.
+
+## Data Source:
+
+The analysis is based on data sourced from [mention the source here, if applicable]. 
+
+## License:
+
+[Include license information if applicable.]
+
 
 ## Files
 
