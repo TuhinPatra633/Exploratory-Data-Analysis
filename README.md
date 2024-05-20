@@ -13,9 +13,9 @@ This repository contains an exploratory data analysis (EDA) project.
 
 ## Viewing the Analysis
 
-You can view the HTML version of the analysis directly by clicking [here](https://github.com/TuhinPatra633/Exploratory-Data-Analysis/blob/main/eda.html).
+You can view the HTML version of the analysis directly by clicking [here](https://github.com/TuhinPatra633/Exploratory-Data-Analysis/blob/main/Edafinal.html).
 
-Alternatively, you can view the raw R Markdown file by clicking [here](https://github.com/TuhinPatra633/Exploratory-Data-Analysis/blob/main/eda.Rmd).
+Alternatively, you can view the raw R Markdown file by clicking [here](https://github.com/TuhinPatra633/Exploratory-Data-Analysis/blob/main/Edafinal.Rmd).
 
 ## Reproducing the Analysis
 
@@ -23,4 +23,4 @@ To reproduce the analysis:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/TuhinPatra633/Exploratory-Data-Analysis.git
