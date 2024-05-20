@@ -4,7 +4,7 @@ This repository contains an exploratory data analysis (EDA) on Indian IPOs.
 
 ## Data Source:
 
-The analysis is based on data sourced from (https://www.moneycontrol.com/).
+The analysis is based on data sourced from https://www.moneycontrol.com/.
 
 # Project Overview
 
